@@ -1,0 +1,28 @@
+{
+    "remotePath": "/home/pi/",
+    "host": "192.168.137.214",
+    "username": "pi",
+    "password": "raspberry",
+    "port": 22,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "uploadOnSave": false,
+        "path": ""
+    }
+}
